@@ -1,0 +1,13 @@
+Package: simulation
+Type: Package
+Title: Simualtion for Statistical Distribution
+Version: 0.1.0
+Author: Shrikrishna M Nevase
+Maintainer: Krishna Nevase <krishna11nevase@gmail.com>
+Description: Random Number Generation form Statistical Distribution. First Simulation practical of 
+            B.Sc.III Statistics and M.Sc. Applied Statistics studensts of Shivaji Unversity.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: stats
